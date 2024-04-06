@@ -1,0 +1,2 @@
+styleUpdate(w4Style, _pFgColour[3], _pBgColour[3],
+qreal w = ctx->callData->args[2].toNumber();
